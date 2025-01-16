@@ -9,6 +9,7 @@ Explore, collaborate, and feel free to connect! 🌟
 ## Connect with Me 💬
 
 📫 Email: m.hatem.saleh@gmail.com 
+
 🌐 LinkedIn: linkedin.com/in/mohamed-hatem-saleh/
 
 <!--
