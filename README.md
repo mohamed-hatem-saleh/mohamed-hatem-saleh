@@ -9,6 +9,7 @@ Explore, collaborate, and feel free to connect! 🌟
 ## Connect with Me 💬
 
 📫 Email: m.hatem.saleh@gmail.com 
+💬 LinkedIn: [www.linkedin.com/in/mohamed-hatem-saleh/](https://www.linkedin.com/in/mohamed-hatem-saleh/)
 <!--
 **mohamed-hatem-saleh/mohamed-hatem-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
