@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👨‍💻
 
-I am a Communication and Information Engineering (CIE) student at Zewail City of Science and Technology, with a focus on Artificial Intelligence, communication technologies, and software engineering. I am passionate about exploring and developing solutions in AI, data science, and deep learning, particularly in applications related to Telecom like network optimization, and IoT.  
+I am a Communication and Information Engineering (CIE) graduate from Zewail City of Science and Technology, with a focus on Artificial Intelligence, communication technologies, and software engineering. I am passionate about exploring and developing solutions in AI, data science, and deep learning, particularly in applications related to Telecom like network optimization, and IoT.  
 
 I enjoy building innovative, scalable, and well-structured projects that solve real-world problems. My work reflects my commitment to combining creativity with cutting-edge technology to make a meaningful impact. I aim to contribute to innovations that bridge technology and sustainability while enhancing everyday user experiences.
 
